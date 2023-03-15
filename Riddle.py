@@ -3,13 +3,10 @@
 
 # In[9]:
 
-
 from IPython.display import Image
 Image("F:\Term2\coding two\python/python c.jpg",width=700,height=800)
 
-
 # In[8]:
-
 
 #Poem: Yearning for your warmth so bright. Only you could shine this light. Understanding, with heart so pure.
 #All my days and nights aglow. Radiating love, you've felt. Encompassing all who're near. Love, compassion you make clear.
@@ -30,4 +27,3 @@ first_letters = [sentence[0] for sentence in sentences]
 output = ' '.join(first_letters)
 
 print(output)
-
